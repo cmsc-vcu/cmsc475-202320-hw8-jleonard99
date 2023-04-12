@@ -1,0 +1,14 @@
+---
+title: "My first web page"
+date: last-modified
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css---
+---
+
+# Hello world!
+
+Welcome to my new web page!
+
