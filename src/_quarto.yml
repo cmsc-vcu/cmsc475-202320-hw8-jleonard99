@@ -1,4 +1,20 @@
 project:
   type: website
   output-dir: ../docs
-  
+
+website:
+  title: "today"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: demo.qmd
+        text: Demo
+      - href: cmsc475_portfolio.qmd
+        text: Portfolio
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

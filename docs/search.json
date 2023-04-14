@@ -1,9 +1,23 @@
 [
   {
+    "objectID": "cmsc475_portfolio.html",
+    "href": "cmsc475_portfolio.html",
+    "title": "CMSC 475 - Portfolio",
+    "section": "",
+    "text": "Below are samples of my work in CMSC 475. Well, actually, I’m using links from students in the class to demonstrate what a sample portfolio might look like!\n\nFigma prototype\nhttps://www.figma.com/proto/B4vmc7MAwJ6nQXjS7LfqIf/Face_App-Wireframe?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2\n\n\nVideo of mobile app\nhttps://drive.google.com/file/d/1Olqn7nAwP50jls-b94NXS6zDVC-TiP-M/view\n\n\nP5JS Sketches\nhttps://editor.p5js.org/jleonard99/sketches/lABznzgj3\nhttps://editor.p5js.org/jleonard99/sketches/C_7OKh1Jr\nhttps://editor.p5js.org/jleonard99/sketches/UZVDoUSMp"
+  },
+  {
+    "objectID": "demo.html",
+    "href": "demo.html",
+    "title": "Quarto Basics",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My first web page",
+    "title": "CMSC 475 web site",
     "section": "",
-    "text": "Hello world!\nWelcome to my new web page!"
+    "text": "Hello world!\nWelcome to my web site!\nThis site presents some of the things I’ve done over the last semester in CMSC 475. Visit the links above in the navigation bar.\nEnjoy!"
   }
 ]

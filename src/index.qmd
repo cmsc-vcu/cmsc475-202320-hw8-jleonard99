@@ -1,14 +1,12 @@
 ---
-title: "My first web page"
+title: "CMSC 475 web site"
 date: last-modified
-format:
-  html:
-    toc: true
-    html-math-method: katex
-    css: styles.css---
 ---
 
 # Hello world!
 
-Welcome to my new web page!
+Welcome to my web site!
 
+This site presents some of the things I've done over the last semester in CMSC 475. Visit the links above in the navigation bar.
+
+Enjoy!
