@@ -1,5 +1,5 @@
 ---
-title: "CMSC 475 web site"
+title: "CMSC 475 web site - John Leonard"
 date: last-modified
 ---
 
