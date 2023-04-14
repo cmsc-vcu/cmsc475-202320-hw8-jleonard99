@@ -10,7 +10,7 @@ website:
         text: Home
       - href: demo.qmd
         text: Demo
-      - href: cmsc475_portfolio.qmd
+      - href: cmsc475-portfolio.qmd
         text: Portfolio
 
 format:
