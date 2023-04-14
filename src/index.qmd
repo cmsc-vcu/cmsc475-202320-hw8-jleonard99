@@ -10,3 +10,9 @@ Welcome to my web site!
 This site presents some of the things I've done over the last semester in CMSC 475. Visit the links above in the navigation bar.
 
 Enjoy!
+
+# Background
+
+This site was built as part of homework assignment 8 for CMSC 475.
+
+<https://lowkeylabs.github.io/cmsc475-202320-materials/homework8.html>
