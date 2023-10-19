@@ -1,0 +1,43 @@
+---
+title: "this is my title"
+date: last-modified
+author: "John Leonard"
+
+format:
+    pptx:
+        reference-doc: template1.pptx
+
+#format:
+#  revealjs: 
+#    theme: dark
+---
+
+## Slide 1
+
+- hello
+- world
+
+## Slide 2
+
+:::: {.columns}
+
+::: {.column}
+1. counters
+1. and more counters
+:::
+
+::: {.column}
+a. second block
+a. another line
+:::
+
+::::
+
+# new section
+
+## Last slide
+
+this is a simple block of text!
+
+
+

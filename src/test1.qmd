@@ -1,0 +1,31 @@
+---
+title: "Habits"
+author: "John Doe"
+format: revealjs
+---
+
+# In the morning
+
+## Getting up
+
+1. Get out of bed
+1. Turn off alarm
+1. shower
+1. eat breakfast (see next slide)
+
+## Breakfast
+
+a. Eat eggs
+a. Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep

@@ -4,6 +4,34 @@
     "href": "index.html",
     "title": "My first web page",
     "section": "",
-    "text": "Hello world!\nWelcome to my new web page!"
+    "text": "Hello world!\nWelcome to my new web page!\n\n\nanother line break\nhello world"
+  },
+  {
+    "objectID": "test1.html#getting-up",
+    "href": "test1.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nGet out of bed\nTurn off alarm\nshower\neat breakfast (see next slide)"
+  },
+  {
+    "objectID": "test1.html#breakfast",
+    "href": "test1.html#breakfast",
+    "title": "Habits",
+    "section": "Breakfast",
+    "text": "Breakfast\n\nEat eggs\nDrink coffee"
+  },
+  {
+    "objectID": "test1.html#dinner",
+    "href": "test1.html#dinner",
+    "title": "Habits",
+    "section": "Dinner",
+    "text": "Dinner\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "test1.html#going-to-sleep",
+    "href": "test1.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
   }
 ]
