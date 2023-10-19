@@ -1,5 +1,5 @@
 ---
-title: "My first web page"
+title: "CMSC 475 web site - John Leonard"
 date: last-modified
 format:
   html:
@@ -9,8 +9,14 @@ format:
 
 # Hello world!
 
-Welcome to my new web page!
+Welcome to my web site!
 
-# another line break
+This site presents some of the things I've done over the last semester in CMSC 475. Visit the links above in the navigation bar.
 
-hello world
+Enjoy!
+
+# Background
+
+This site was built as part of homework assignment 8 for CMSC 475.
+
+<https://lowkeylabs.github.io/cmsc475-202320-materials/homework8.html>
